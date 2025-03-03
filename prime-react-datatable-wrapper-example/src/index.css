@@ -1,0 +1,13 @@
+@import "tailwindcss/preflight";
+@tailwind utilities;
+
+@layer tailwind-base, primereact, tailwind-utilities;
+
+@layer tailwind-base {
+  @import "tailwindcss/preflight";
+}
+
+@layer tailwind-utilities {
+  @tailwind utilities;
+}
+

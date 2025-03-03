@@ -1,0 +1,1 @@
+Generic components go here. Things that work like a Mantine component that do not contain site specific functionality are generic enough to be here.
